@@ -1,4 +1,4 @@
-module github.com/posener/sharedsecret
+module github.com/Fishermanljh/sharedsecret
 
 go 1.13
 
